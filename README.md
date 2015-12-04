@@ -6,6 +6,9 @@ vilket är en site som handlar om detta med exempel och mycket annat.
 Här är t ex en läsvärd artikel; http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html.
 High scalability är alltså en bra resurs.  
 <br>
+I detta repot finns en artikel om Twitters arkitektur/infrastruktur - trevlig läsning!  
+https://github.com/mattische/ME1564-HT15/blob/master/Twitter_An_Architectural_Review.pdf  
+<br>
 <br>
 Nedan är samlat artiklar om arkitekturer, från High scalability, för följande företag;  
 + WhatsApp - http://highscalability.com/blog/2014/3/31/how-whatsapp-grew-to-nearly-500-million-users-11000-cores-an.html
