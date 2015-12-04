@@ -3,7 +3,7 @@
 #### ett ord om Digital infrasktur och arkitektur i synnerhet
 För att hjälpa till lite på traven om Digital infrastruktur (fokuserat på arkitektur) så finns mycket att läsa på High Scalability,  
 vilket är en site som handlar om detta med exempel och mycket annat.  
-Här är t ex en läsvär artikel; http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html.
+Här är t ex en läsvärd artikel; http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html.
 High scalability är alltså en bra resurs.  
 <br>
 <br>
