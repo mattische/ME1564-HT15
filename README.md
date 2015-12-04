@@ -19,7 +19,7 @@ Nedan är samlat artiklar om arkitekturer, från High scalability, för följand
 + YouTube - http://highscalability.com/youtube-architecture
 + Pinterest - http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html
 + Instagram - http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html
-+ TridAdvisor - http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html
++ TripAdvisor - http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html
 + Prismatic - http://highscalability.com/blog/2012/7/30/prismatic-architecture-using-machine-learning-on-social-netw.html
 + Netflix - http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html
 
